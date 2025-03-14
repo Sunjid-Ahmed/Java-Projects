@@ -101,5 +101,5 @@ Contributions are welcome! If you'd like to improve this project:
 This project is **open-source** and available under the **MIT License**.
 
 ---
-🚀 *Developed with ❤️ by [Your Name](https://github.com/Sunjid-Ahmed).*
+🚀 *Developed with ❤️ by [Sunjid Ahmed](https://github.com/Sunjid-Ahmed).*
 
